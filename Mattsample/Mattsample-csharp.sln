@@ -17,15 +17,21 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 											GlobalSection(MonoDevelopProperties) = preSolution
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+									GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> parent of bfb674d... Test
 =======
 					GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> parent of 427eaa7... TestScript3 - I was here
 =======
-						GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> parent of 91b166d... lolz2
 =======
-					GlobalSection(MonoDevelopProperties) = preSolution
+						GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> parent of 427eaa7... TestScript3 - I was here
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0

@@ -5,7 +5,11 @@ public class TestScript3 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+<<<<<<< HEAD
 	//I'm now here3
+=======
+	//I'm now here
+>>>>>>> parent of a765e7c... lol
 
 	}
 	
